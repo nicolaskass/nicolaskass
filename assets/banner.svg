@@ -146,7 +146,7 @@
   <rect width="1280" height="320" fill="url(#glow)"/>
 
   <!-- ══ T3 LOCKUP ════════════════════════════════════════════════ -->
-  <g transform="translate(84,72) scale(0.52)">
+  <g transform="translate(80,86) scale(0.60)">
     <polygon points="140,30 220,80 140,130 60,80"
              fill="url(#topFace)" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
     <polygon points="60,80 60,190 140,240 140,130"
@@ -157,10 +157,6 @@
 
   <g font-family="Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif"
      text-anchor="middle">
-    <text x="157" y="234" font-size="15" font-weight="700" fill="#EAEAEF"
-          letter-spacing="2.2">T³</text>
-    <text x="157" y="256" font-size="9.5" font-weight="600" fill="#5F7A88"
-          letter-spacing="2.4">THREE TECH THINKERS</text>
   </g>
 
   <!-- ══ TEXT ═════════════════════════════════════════════════════ -->
@@ -174,7 +170,7 @@
     <rect x="268" y="206" width="188" height="2" fill="url(#rule)"/>
 
     <text x="268" y="243" font-size="16.5" font-weight="500" fill="#9090A8"
-          letter-spacing="0.3">Django · React · Docker · Python · GDAL · LiDAR</text>
+          letter-spacing="0.3">Business systems · Geospatial data · Scientific computing</text>
 
     <text x="268" y="270" font-size="15" font-weight="400" fill="#606078"
           letter-spacing="0.3">4 architecture repositories · 34 decision records</text><text x="268" y="296" font-size="15" font-weight="400" fill="#606078" letter-spacing="0.3">La Plata, Argentina · open to remote</text>
