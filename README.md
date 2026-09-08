@@ -1,4 +1,4 @@
-![Nicolás Kass — biologist who builds production software. Django, React, Docker, Python, GDAL, LiDAR. Four architecture repositories, 33 decision records. La Plata, Argentina, open to remote.](assets/banner.png)
+![Nicolás Kass — biologist who builds production software. Django, React, Docker, Python, GDAL, LiDAR. Four architecture repositories, 34 decision records. La Plata, Argentina, open to remote.](assets/banner.png)
 
 I build the operational systems small businesses actually run on — inventory, point of
 sale, invoicing, field tooling — and the data pipelines behind them. Backend, frontend,
@@ -22,7 +22,7 @@ decided, what I rejected, and what each decision cost.
 | **[geospatial-data-processing](https://github.com/nicolaskass/geospatial-data-processing)** | LiDAR and photogrammetry pipeline, plus a reference book in progress | Measurement discipline: validation that is not circular, uncertainty that reaches the deliverable |
 | **[ecological-data-analysis](https://github.com/nicolaskass/ecological-data-analysis)** | The statistics behind four manuscripts, with published reproducibility packages | Bayesian inference, prior sensitivity, simulating my own estimator's bias |
 
-**33 architecture decision records** between them. Each one states what the decision cost,
+**34 architecture decision records** between them. Each one states what the decision cost,
 not only what it bought — including the cases where I would choose differently for a
 different problem.
 
