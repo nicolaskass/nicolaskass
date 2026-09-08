@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 1280 320" width="1280" height="320" xmlns="http://www.w3.org/2000/svg">
-  <!-- Nicolás Kass — profile banner -->
+  <!-- Nicolas Kass — profile banner -->
   <!-- T3 lockup over the brand constellation motif. -->
   <!-- Follows negocio/marca/manual §6: dispersed nodes in clusters, plenty of air,
        no tiling, per-edge opacity inversely proportional to edge length, no animation. -->
@@ -162,7 +162,7 @@
   <!-- ══ TEXT ═════════════════════════════════════════════════════ -->
   <g font-family="Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif">
     <text x="266" y="140" font-size="52" font-weight="800" fill="#EAEAEF"
-          letter-spacing="-0.5">Nicolás Kass</text>
+          letter-spacing="-0.5">Nicolas Kass</text>
 
     <text x="268" y="182" font-size="21" font-weight="600" fill="#00D4FF"
           letter-spacing="0.6">Biologist who builds production software</text>
