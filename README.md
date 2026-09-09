@@ -1,4 +1,4 @@
-![Nicolas Kass — biologist who builds production software. Business systems, geospatial data, scientific computing. Four architecture repositories, 34 decision records. La Plata, Argentina, open to remote.](assets/banner.png)
+![Nicolas Kass — software architect. Business systems, geospatial data, scientific computing. Four architecture repositories, 34 decision records. La Plata, Argentina, open to remote.](assets/banner.png)
 
 I build the operational systems small businesses actually run on — inventory, point of
 sale, invoicing, field tooling — and the data pipelines behind them. Backend, frontend,
