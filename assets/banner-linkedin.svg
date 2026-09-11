@@ -18,21 +18,6 @@
       <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0"/>
     </radialGradient>
 
-    <!-- Cube in the brand accent family: cyan #00d4ff, per the 2026-09-07
-         colour decision in the brand manual. Faces are tints and shades of it. -->
-    <linearGradient id="topFace" x1="50%" y1="0%" x2="50%" y2="100%">
-      <stop offset="0%"   style="stop-color:#E4F8FF"/>
-      <stop offset="100%" style="stop-color:#BFEDFC"/>
-    </linearGradient>
-    <linearGradient id="leftFace" x1="0%" y1="50%" x2="100%" y2="50%">
-      <stop offset="0%"   style="stop-color:#6FD6F2"/>
-      <stop offset="100%" style="stop-color:#45C2E6"/>
-    </linearGradient>
-    <linearGradient id="rightFace" x1="100%" y1="50%" x2="0%" y2="50%">
-      <stop offset="0%"   style="stop-color:#1497C4"/>
-      <stop offset="100%" style="stop-color:#0B7099"/>
-    </linearGradient>
-
     <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   style="stop-color:#00D4FF;stop-opacity:0.85"/>
       <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0"/>
@@ -145,15 +130,24 @@
   <rect width="1280" height="320" fill="url(#scrim)"/>
   <rect width="1280" height="320" fill="url(#glow)"/>
 
-  <!-- ══ T3 LOCKUP ════════════════════════════════════════════════ -->
-  <g transform="translate(300,86) scale(0.60)">
-    <polygon points="140,30 220,80 140,130 60,80"
-             fill="url(#topFace)" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
-    <polygon points="60,80 60,190 140,240 140,130"
-             fill="url(#leftFace)" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
-    <polygon points="140,130 140,240 220,190 220,80"
-             fill="url(#rightFace)" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- LOGO · lo inserta contexto/scripts/componer-banners.py desde negocio/marca/logos/ — no editar a mano -->
+  <!-- pantalla/t3-isotipo-dark-libre.svg · cubo como marca chica: el protagonista es el nombre -->
+  <g transform="translate(294.00 77.00) scale(0.6000)">
+    <!-- caras -->
+    <path d="M 150.000 57.624 L 230.000 103.812 L 150.000 150.000 L 70.000 103.812 Z" fill="#7DD3FC" opacity="0.14"/>
+    <path d="M 70.000 103.812 L 150.000 150.000 L 150.000 242.376 L 70.000 196.188 Z" fill="#7DD3FC" opacity="0.08"/>
+    <path d="M 230.000 103.812 L 230.000 196.188 L 150.000 242.376 L 150.000 150.000 Z" fill="#7DD3FC" opacity="0.11"/>
+    <!-- arista trasera, vista por transparencia -->
+    <path d="M 150.000 57.624 L 150.000 150.000" stroke="#7DD3FC" stroke-width="1.65" opacity="0.35" stroke-linecap="round" fill="none"/>
+    <!-- aristas frontales -->
+    <path d="M 150.000 150.000 L 70.000 103.812" stroke="#7DD3FC" stroke-width="3.0" stroke-linecap="round" fill="none"/>
+    <path d="M 150.000 150.000 L 230.000 103.812" stroke="#7DD3FC" stroke-width="3.0" stroke-linecap="round" fill="none"/>
+    <path d="M 150.000 150.000 L 150.000 242.376" stroke="#7DD3FC" stroke-width="3.0" stroke-linecap="round" fill="none"/>
+    <!-- contorno -->
+    <path d="M 150.000 57.624 L 230.000 103.812 L 230.000 196.188 L 150.000 242.376 L 70.000 196.188 L 70.000 103.812 Z" fill="none" stroke="#7DD3FC" stroke-width="3.0" stroke-linejoin="round"/>
+    <circle cx="150.000" cy="57.624" r="3.2" fill="#7DD3FC"/>
   </g>
+  <!-- /LOGO -->
 
   <g font-family="Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif"
      text-anchor="middle">
