@@ -156,17 +156,17 @@
   <!-- ══ TEXT ═════════════════════════════════════════════════════ -->
   <g font-family="Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif">
     <text x="266" y="140" font-size="52" font-weight="800" fill="#EAEAEF"
-          letter-spacing="-0.5">Nicolas Kass</text>
+          letter-spacing="-0.5">Nicolás Ariel Kass</text>
 
-    <text x="268" y="182" font-size="21" font-weight="600" fill="#38BDF8"
-          letter-spacing="0.6">Software architect. I measure before I build.</text>
+    <text x="268" y="182" font-size="18.5" font-weight="600" fill="#38BDF8"
+          letter-spacing="0.4">I research, design, deliver and maintain analyses and systems</text>
 
     <rect x="268" y="206" width="188" height="2" fill="url(#rule)"/>
 
     <text x="268" y="243" font-size="16.5" font-weight="500" fill="#9090A8"
-          letter-spacing="0.3">Business systems · Geospatial data · Scientific computing</text>
+          letter-spacing="0.3">Ecology &amp; conservation · Data &amp; applied statistics · Management systems</text>
 
     <text x="268" y="270" font-size="15" font-weight="400" fill="#606078"
-          letter-spacing="0.3">4 architecture repositories · 34 decision records</text><text x="268" y="296" font-size="15" font-weight="400" fill="#606078" letter-spacing="0.3">La Plata, Argentina · open to remote</text>
+          letter-spacing="0.3">PhD candidate in Natural Sciences · University teaching, UNLP</text><text x="268" y="296" font-size="15" font-weight="400" fill="#606078" letter-spacing="0.3">La Plata, Argentina · open to remote</text>
   </g>
 </svg>
