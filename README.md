@@ -24,16 +24,12 @@ rejected, and what each decision cost.
 | **[geospatial-data-processing](https://github.com/nicolaskass/geospatial-data-processing)** | LiDAR and photogrammetry processing, plus a reference book in progress |
 | **[ecological-data-analysis](https://github.com/nicolaskass/ecological-data-analysis)** | Methods behind the manuscripts: Bayesian inference, prior sensitivity, simulated bias |
 
-**Reproducibility packages** for my own research. Data, code and the figures each
-manuscript reports, so the analysis can be re-run. The manuscripts are in preparation or
-under review, so these will carry a DOI and the final citation once each paper is out.
-
-| Repository | What it is |
-|---|---|
-| **[atelognathus-reverberii-cmr](https://github.com/nicolaskass/atelognathus-reverberii-cmr)** | Bayesian capture-mark-recapture, Pollock's Robust Design, with its own MCMC sampler and diagnostics |
-| **[atelognathus-reverberii-microhabitat](https://github.com/nicolaskass/atelognathus-reverberii-microhabitat)** | Microhabitat use, with the sampling design and its limitations written down |
-| **[atelognathus-reverberii-morphometrics](https://github.com/nicolaskass/atelognathus-reverberii-morphometrics)** | Morphometrics: mixture models, bootstrap, sensitivity analysis |
-| **[atelognathus-reverberii-population-dynamics](https://github.com/nicolaskass/atelognathus-reverberii-population-dynamics)** | Population dynamics derived from the CMR work |
+**Reproducibility packages** for my own research: data, analysis scripts and the figures
+each manuscript reports, so the analysis can be re-run. They are kept private until each
+paper is accepted — the journal uses double-anonymous review — and will be released with a
+DOI and the final citation, as the data accessibility statement of each paper requires.
+Four of them are ready: Bayesian capture-mark-recapture with its own MCMC sampler,
+microhabitat use, morphometrics, and population dynamics.
 
 ---
 
