@@ -1,4 +1,4 @@
-![Nicolás Ariel Kass — I research, design, deliver and maintain analyses and systems. Ecology and conservation, data and applied statistics, management systems. PhD candidate in Natural Sciences, university teaching at UNLP. La Plata, Argentina, open to remote.](assets/banner.png)
+![Nicolás Ariel Kass — I research, design, deliver and maintain analyses and systems. Ecology and conservation, data and applied statistics, management systems. PhD candidate in Natural Sciences, university teaching at UNLP. La Plata, Argentina, on-site in Buenos Aires or remote.](assets/banner.png)
 
 I work on two things that turn out to be the same thing: field ecology, where I design the
 sampling and run the analysis, and the systems small businesses run on — inventory, point
@@ -21,7 +21,7 @@ rejected, and what each decision cost.
 |---|---|
 | **[specialty-retail-erp](https://github.com/nicolaskass/specialty-retail-erp)** | A retail ERP in production: modules, domain model, and a consolidation refactor over live financial data |
 | **[geospatial-survey-toolkit](https://github.com/nicolaskass/geospatial-survey-toolkit)** | Field tooling for a surveying practice: delivering software to non-technical users |
-| **[geospatial-data-processing](https://github.com/nicolaskass/geospatial-data-processing)** | LiDAR and photogrammetry processing, plus a reference book in progress |
+| **[geospatial-data-processing](https://github.com/nicolaskass/geospatial-data-processing)** | Work in progress: where I'm learning Google Earth Engine, GIS, LiDAR and photogrammetry with AI assistants, including the Earth Engine work for my papers |
 | **[ecological-data-analysis](https://github.com/nicolaskass/ecological-data-analysis)** | Methods behind the manuscripts: Bayesian inference, prior sensitivity, simulated bias |
 
 **Reproducibility packages** for my own research: data, analysis scripts and the figures
@@ -36,8 +36,8 @@ microhabitat use, morphometrics, and population dynamics.
 ## How I work
 
 **I build with AI assistants, and I say so.** I define the problem, the data model and the
-architecture; I review, test and reject what does not hold up. The retail system has been
-in production for four years. Some of the decision records exist precisely because a
+architecture; I review, test and reject what does not hold up. The retail system is still
+in production at the business, which I am no longer part of. Some of the decision records exist precisely because a
 plausible AI suggestion was wrong for the domain, and the record says why. If the tools
 stopped being available tomorrow, the code is versioned, documented and tested, and I would
 go back to working the way I did before they existed.
@@ -76,8 +76,8 @@ confidence interval does not get published. They are less ordinary in commercial
 and carrying them over required no new technical knowledge — only the habit of asking, of
 any number: compared to what, and how sure are we?
 
-I am finishing a PhD in Natural Sciences at UNLP, on the ecology and conservation of a
-Patagonian amphibian. I teach Zoology at the same faculty, and I am a certified ISO 9001
+I'm a PhD candidate in Natural Sciences at UNLP, aiming to submit in 2027, on the ecology
+and conservation of a Patagonian amphibian. I teach Zoology at the same faculty, and I am a certified ISO 9001
 internal auditor. Those are not a parallel career; they are why the software looks the way
 it does.
 
@@ -85,8 +85,8 @@ it does.
 
 ## Now
 
-Based in La Plata, Argentina, working remotely without difficulty. Open to roles where data
-analysis and system building meet, and to research collaboration.
+Based in La Plata, Argentina. Open to on-site work in Buenos Aires and to remote roles, in
+training, field operations and data, and to research collaboration.
 
 **[CV →](https://nicolaskass.github.io)** · English and Spanish, PDF included
 &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nicolaskass)
